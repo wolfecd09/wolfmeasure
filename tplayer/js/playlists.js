@@ -3,7 +3,7 @@ var playlist_01 = [{
 	"artist": "Wolf Measure",
 	"title": "The Sun Rises",
 	"audio": "https://rawgit.com/wolfecd09/wolfmeasure/master/Resources/Audio/The Sun Rises.mp3",
-	"cover": "https://rawgit.com/wolfecd09/wolfmeasure/master/Resources/Images/IMG_20161217_1223216.jpg"
+	"cover": "https://raw.githubusercontent.com/wolfecd09/wolfmeasure/master/Resources/Images/Optimized-IMG_20161217_1223216.jpg"
 }, {
 	"type": "audio",
 	"artist": "Foals",
