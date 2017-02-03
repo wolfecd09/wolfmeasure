@@ -32,7 +32,7 @@
       timeCLR: "#fff",
       playlistBG: "#3EC3D5",
       playlistTextCLR: "#fff",
-      playlistCurBG: "#42CFE2",
+      playlistCurBG: "#d3ae82",
       playlistTextCurCLR: "#fff"
     },
       settings = $.extend(defaults, options), // обьеденяем деволтные настройки с пользовательскими настройками
