@@ -1,7 +1,7 @@
 var playlist_01 = [{
 	"type": "audio",
-	"artist": "Wild Beasts",
-	"title": "Get My Bang",
+	"artist": "Wolf Measure",
+	"title": "The Sun Rises",
 	"audio": "http://www.id-fis.ru/demo/wp/wp-content/uploads/Wild-Beasts-Get-My-Bang.mp3",
 	"cover": "http://www.id-fis.ru/demo/wp/wp-content/uploads/Wild-Beasts–Get-My-Bang.jpg"
 }, {
