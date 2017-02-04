@@ -2,7 +2,7 @@ var playlist_01 = [{
 	"type": "audio",
 	"artist": "Wolf Measure",
 	"title": "The Sun Rises",
-	"audio": "https://raw.githubusercontent.com/wolfecd09/wolfmeasure/Resources/Audio/The Sun Rises.mp3",
+	"audio": "https://raw.githubusercontent.com/wolfecd09/wolfmeasure.master/Resources/Audio/The Sun Rises.mp3",
 	"cover": "http://www.id-fis.ru/demo/wp/wp-content/uploads/Wild-Beasts–Get-My-Bang.jpg"
 }, {
 	"type": "audio",
